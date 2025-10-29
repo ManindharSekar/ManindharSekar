@@ -1,30 +1,48 @@
-<!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=00BFFF&center=true&vCenter=true&width=550&lines=Hey+there!+👋;I'm+Manindhar!;Java+Developer+☕;Spring+Boot+%7C+Hibernate+%7C+MySQL;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
-</p>
-
-<!-- ===================== HEADER ===================== -->
-<h1 align="center">👨‍💻 Manindhar | Java Developer</h1>
-<h3 align="center">⚡ Backend Developer | Spring Boot | MySQL | Hibernate ⚡</h3>
+<h1 align="center">👋 Hi, I'm Manindhar</h1>
+<h3 align="center">💻 Java Developer | Spring Boot | Hibernate | MySQL</h3>
 
 <p align="center">
-  💡 Passionate about writing clean, scalable, and efficient backend code.<br/>
-  ☕ Fueled by coffee and curiosity.<br/>
-  🌱 Currently learning <b>Microservices</b> & <b>Spring Security</b>.<br/>
-  🧠 Always exploring new backend design patterns & performance tricks.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Eclipse+Lover+☕;Backend+Developer+⚙️;Spring+Boot+Enthusiast+🚀;Clean+Code+is+My+Superpower!">
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-```java
-class Manindhar {
-    String role = "Java Developer";
-    String[] techStack = {"Java", "Spring Boot", "Hibernate", "MySQL", "REST APIs"};
-    String funFact = "I debug with coffee ☕ and infinite patience 😄";
+- 🔭 Currently working on: **Warehouse Management System**  
+- 🌱 Learning: **Microservices | Docker | Advanced Spring Boot**  
+- 🧠 IDE of choice: **Eclipse**  
+- 💬 Ask me about: **Java, Spring Boot, Hibernate and MySQL**  
+- ⚡ Fun fact: *I debug faster when I’m on my third cup of coffee ☕*  
 
-    void code() {
-        System.out.println("Building backend magic with Spring Boot!");
-    }
-}
+---
+
+### 🧰 Tech Stack
+
+#### 💻 Languages & Frameworks:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js" />
+</p>
+
+#### 🧠 Tools & Platforms:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=eclipse,git,github,postman,maven" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/manindhar-s/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:manindharsekar@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/ManindharSekar" target="blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+### 🧠 Developer Quote
+> “Programs must be written for people to read, and only incidentally for machines to execute.” — *Harold Abelson*
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manindhar&label=Profile+Views&color=brightgreen&style=flat-square" alt="profile views" />
+</p>
