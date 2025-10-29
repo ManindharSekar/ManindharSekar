@@ -1,20 +1,30 @@
-<!-- Animated Banner -->
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7FF,100:0061FF&height=230&section=header&text=👋%20Hey%20I'm%20Manindhar!&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=00BFFF&center=true&vCenter=true&width=550&lines=Hey+there!+👋;I'm+Manindhar!;Java+Developer+☕;Spring+Boot+%7C+Hibernate+%7C+MySQL;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
 </p>
 
-<!-- Typing Intro -->
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">👨‍💻 Manindhar | Java Developer</h1>
+<h3 align="center">⚡ Backend Developer | Spring Boot | MySQL | Hibernate ⚡</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Java+Developer+☕;Spring+Boot+%7C+Hibernate+%7C+MySQL;Backend+Engineer+%7C+API+Developer;Welcome+to+my+GitHub!+🚀" alt="Typing Animation" />
+  💡 Passionate about writing clean, scalable, and efficient backend code.<br/>
+  ☕ Fueled by coffee and curiosity.<br/>
+  🌱 Currently learning <b>Microservices</b> & <b>Spring Security</b>.<br/>
+  🧠 Always exploring new backend design patterns & performance tricks.
 </p>
 
 ---
 
-## 💫 About Me
+## 🧑‍💻 About Me
+
 ```java
-public class Manindhar {
+class Manindhar {
     String role = "Java Developer";
-    String company = "XYZ Software Solutions";
-    String[] techStack = {"Java", "Spring Boot", "Hibernate", "MySQL", "REST API"};
-    String funFact = "I believe bugs are just misunderstood features 🐛";
+    String[] techStack = {"Java", "Spring Boot", "Hibernate", "MySQL", "REST APIs"};
+    String funFact = "I debug with coffee ☕ and infinite patience 😄";
+
+    void code() {
+        System.out.println("Building backend magic with Spring Boot!");
+    }
 }
