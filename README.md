@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Manindhar!;Java+Developer+%7C+Spring+Boot+%7C+MySQL;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C7FF&center=true&vCenter=true&width=550&lines=Hey+there!+👋;I'm+Manindhar!;Java+Developer+%7C+Spring+Boot+%7C+MySQL;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing Animation" />
 </p>
 
 <!-- Title and Subtitle -->
