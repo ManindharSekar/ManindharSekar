@@ -11,8 +11,8 @@
 💻 Passionate about crafting clean backend systems using Java & Spring Boot.<br/>
 🌱 Currently learning **Microservices**, **Spring Security**, and **AWS**.<br/>
 🎯 Focused on building scalable enterprise applications.<br/>
-📫 Reach me at: <a href="mailto:your.email@example.com">your.email@example.com</a><br/>
-🔗 Connect on <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">LinkedIn</a>
+📫 Reach me at: <a href="mailto:manindharsekar@gmail.com">manindharsekar@gmail.com</a><br/>
+🔗 Connect on <a href="https://www.linkedin.com/in/manindhar-s/" target="_blank">LinkedIn</a>
 </p>
 
 ---
