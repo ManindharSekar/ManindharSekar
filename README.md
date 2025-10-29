@@ -1,7 +1,25 @@
-<!-- Intro -->
-<h1 align="center">Hi 👋, I'm Manindhar</h1>
-<h3 align="center">💻 Java Developer | Spring Boot | Hibernate | MySQL</h3>
+<!-- Intro Section -->
+<h1 align="center">Hey there 👋, I'm Manindhar</h1>
+<h3 align="center">💻 Java Developer | ☕ Spring Boot Enthusiast | 🗄️ MySQL Explorer</h3>
 
+<p align="center">
+🚀 Turning coffee ☕ into clean, testable code.<br/>
+🧠 Always learning something new in <b>Java, Spring Boot, and APIs</b>.<br/>
+💬 Let's talk about <b>code, tech, or the perfect dark theme!</b><br/>
+📫 Reach me at: <a href="mailto:your.email@example.com">your.email@example.com</a>
+</p>
+
+---
+
+## 🧩 About Me
+```java
+class Manindhar {
+    String role = "Java Developer";
+    String[] techStack = {"Java", "Spring Boot", "Hibernate", "MySQL", "REST API"};
+    String funFact = "I debug with print statements before I trust the debugger 😅";
+}
+
+---
 <p align="center">
 🌱 Passionate about building scalable backend systems and RESTful APIs.<br/>
 💬 Ask me about <b>Java, Spring Boot, Hibernate, MySQL, and REST APIs</b>.<br/>
