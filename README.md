@@ -7,13 +7,28 @@
 
 ---
 
-### 👨‍💻 About Me
+<p align="center">
+  💡 Passionate about writing clean, scalable, and efficient backend code.<br/>
+  ☕ Fueled by coffee and curiosity.<br/>
+  🌱 Currently learning <b>Microservices</b> & <b>Spring Security</b>.<br/>
+  🧠 Always exploring new backend design patterns & performance tricks.
+</p>
 
-- 🔭 Currently working on: **Warehouse Management System**  
-- 🌱 Learning: **Microservices | Docker | Advanced Spring Boot**    
-- 💬 Ask me about: **Java, Spring Boot, Hibernate and MySQL**  
-- ⚡ Fun fact: *I debug faster when I’m on my third cup of coffee ☕*  
+---
 
+## 🧑‍💻 About Me
+
+```java
+class Manindhar {
+    String role = "Java Developer";
+    String[] techStack = {"Java", "Spring Boot", "Hibernate", "MySQL", "REST APIs"};
+    String funFact = "I debug with coffee ☕ and infinite patience 😄";
+
+    void code() {
+        System.out.println("Building backend magic with Spring Boot!");
+    }
+}
+```
 ---
 
 ### 🧰 Tech Stack
