@@ -40,8 +40,8 @@
 
 ---
 
-### 🧠 Developer Quote
-> “Programs must be written for people to read, and only incidentally for machines to execute.” — *Harold Abelson*
+### 
+ </p> <p align="center"> ✨ <b>"Code. Debug. Repeat. And never forget the coffee."</b> ✨ </p> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Manindhar&label=Profile+Views&color=brightgreen&style=flat-square" alt="profile views" />
