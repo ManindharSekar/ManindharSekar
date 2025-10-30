@@ -10,8 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on: **Warehouse Management System**  
-- 🌱 Learning: **Microservices | Docker | Advanced Spring Boot**  
-- 🧠 IDE of choice: **Eclipse**  
+- 🌱 Learning: **Microservices | Docker | Advanced Spring Boot**    
 - 💬 Ask me about: **Java, Spring Boot, Hibernate and MySQL**  
 - ⚡ Fun fact: *I debug faster when I’m on my third cup of coffee ☕*  
 
