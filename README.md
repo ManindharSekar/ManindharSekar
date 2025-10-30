@@ -2,7 +2,7 @@
 <h3 align="center">💻 Java Developer | Spring Boot | Hibernate | MySQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Eclipse+Lover+☕;Backend+Developer+⚙️;Spring+Boot+Enthusiast+🚀;Clean+Code+is+My+Superpower!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1AFFD5&center=true&vCenter=true&width=600&lines=Java+Developer;Spring+Boot+Backend+Engineer;Loves+Building+REST+APIs;Learning+Something+New+Every+Day!">
 </p>
 
 ---
