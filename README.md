@@ -40,7 +40,7 @@ class Manindhar {
 
 #### 🧠 Tools & Platforms:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=eclipse,git,github,postman,maven" />
+  <img src="https://skillicons.dev/icons?i=idea,eclipse,git,github,postman,maven" />
 </p>
 
 ---
