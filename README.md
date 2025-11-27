@@ -56,7 +56,3 @@ class Manindhar {
 
 ### 
  </p> <p align="center"> ✨ <b>"Code. Debug. Repeat. And never forget the coffee."</b> ✨ </p> 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manindhar&label=Profile+Views&color=brightgreen&style=flat-square" alt="profile views" />
-</p>
