@@ -54,5 +54,11 @@ class Manindhar {
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mani&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+---
+
 ### 
  </p> <p align="center"> ✨ <b>"Code. Debug. Repeat. And never forget the coffee."</b> ✨ </p> 
